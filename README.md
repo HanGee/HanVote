@@ -1,5 +1,7 @@
-HanVote (Voting System (投票系統))
+HanVote
 =======
+
+HanVote - HanGee 的投票系統！！
 
 #### 需求列表：
 * Facebook 功能登入後才能投票
